@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ss-backend"
+name = "ss-parser"
 version = "0.1.0"
 description = ""
 authors = ["antony_kosenko <kosenko.anton.work@gmail.com>"]
